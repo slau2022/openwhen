@@ -10,27 +10,27 @@ The Librarian offered a scroll, upon which a poem was inscribed, its script flic
 
 With a sense of destiny and a touch of trepidation, the wanderer unfurled the scroll and read:
 
-In the realm where the stars sing and the cosmos dance,\
-A secret awaits, a glance, a chance.\
-An image concealed, within the spiral's embrace,\
-A puzzle to solve, a memory to trace.
+*In the realm where the stars sing and the cosmos dance,*\
+*A secret awaits, a glance, a chance.*\
+*An image concealed, within the spiral's embrace,*\
+*A puzzle to solve, a memory to trace*.
 
-Echoes of laughter, a spectral hint,\
-A convergence of souls, a shared imprint.\
-Where culinary spirits entwine in a nocturnal feast,\
-Their ephemeral joy awaits its release.
+*Echoes of laughter, a spectral hint,*\
+*A convergence of souls, a shared imprint.*\
+*Where culinary spirits entwine in a nocturnal feast,*\
+*Their ephemeral joy awaits its release.*
 
-Trace back the rings, from the edge to the core,\
-A chronicle spun, a legendary lore.\
-In every turn, a tale to unbind,\
-Through the wood's enigma, a truth to find.
+*Trace back the rings, from the edge to the core,*\
+*A chronicle spun, a legendary lore.*\
+*In every turn, a tale to unbind,*\
+*Through the wood's enigma, a truth to find.*
 
-Rewind the path, from the end to the start,\
-A challenge of wits, a test of heart.\
-The image obscured, within the spiral's fold,\
-Unravel its secret, let the scene unfold.
+*Rewind the path, from the end to the start,*\
+*A challenge of wits, a test of heart.*\
+*The image obscured, within the spiral's fold,*\
+*Unravel its secret, let the scene unfold.*
 
-Muse upon the pattern, the intricate lines,\
-Within lies the key, where the past entwines.\
-In the heart of the spiral, the answer does dwell,\
-Unveil the memory, break the spell.
+*Muse upon the pattern, the intricate lines*,\
+*Within lies the key, where the past entwines*.\
+*In the heart of the spiral, the answer does dwell*,\
+*Unveil the memory, break the spell.*
