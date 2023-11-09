@@ -10,8 +10,6 @@ The Librarian offered a scroll, upon which a poem was inscribed, its script flic
 
 With a sense of destiny and a touch of trepidation, the wanderer unfurled the scroll and read:
 
-The Ode of Spirals and Echoes
-
 In the realm where the stars sing and the cosmos dance,\
 A secret awaits, a glance, a chance.\
 An image concealed, within the spiral's embrace,\
