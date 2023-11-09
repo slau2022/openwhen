@@ -6,6 +6,8 @@ In an otherworldly library nestled at the edge of reality, where the boundaries 
 
 Beneath the book, within a hidden drawer, lay a wooden slate. Its surface was not carved by any known instrument but seemed to be an imprint of time itself, swirling with patterns that hinted at something more profound than mere wood grain.
 
+![woodgrain](https://github.com/slau2022/openwhen/blob/master/woodgrain.jpg)
+
 The Librarian offered a scroll, upon which a poem was inscribed, its script flickering between the lines of known languages and scripts arcane. "The verses contain your path," they said, a glint of otherworldly amusement in their eyes. "Solve the riddle, and the echo of the past will resonate once more. Speak not your findings, for the solution is to manifest through the art of code, a practice revered in realms both seen and unseen."
 
 With a sense of destiny and a touch of trepidation, the wanderer unfurled the scroll and read:
